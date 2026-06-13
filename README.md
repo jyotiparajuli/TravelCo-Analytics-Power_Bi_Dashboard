@@ -38,9 +38,11 @@ Interactive Power BI dashboard developed for travel business analysis. The dashb
 * DAX
 * Data Modeling
 
-## Project Demo
+## Project Resources:-
 
-Screen Recording: https://drive.google.com/drive/folders/17WDr_jj71egK7N1x-AguPzFUtES11ioa?usp=drive_link
+Demo Video & Screen Shots
+
+https://drive.google.com/drive/folders/1f_YqI_F33GfVYRMg7QLk62Lghl3YIhlN?usp=sharing
 
 ## Business Value
 
