@@ -1,0 +1,61 @@
+Package_ID,Package_Name,Destination_ID,Package_Type,Nights,Hotel_Type,Flight_Included,Meals_Included,Package_Price,Profit_Margin
+PKG001,Bali Bliss Escape - Budget Package,D01,Budget,4,3-Star,Yes,None,8940,12
+PKG002,Bali Bliss Escape - Standard Package,D01,Standard,4,4-Star,Yes,Half Board,34239,25
+PKG003,Bali Bliss Escape - Luxury Package,D01,Luxury,6,5-Star,Yes,Full Board,120742,30
+PKG004,Manali Snow Ride - Budget Package,D02,Budget,5,3-Star,Yes,Breakfast,7320,18
+PKG005,Manali Snow Ride - Standard Package,D02,Standard,6,4-Star,Yes,Half Board,19820,20
+PKG006,Manali Snow Ride - Luxury Package,D02,Luxury,6,5-Star,Yes,Full Board,54636,28
+PKG007,Goa Beach Bash - Budget Package,D03,Budget,4,3-Star,No,None,4429,12
+PKG008,Goa Beach Bash - Standard Package,D03,Standard,7,4-Star,No,Breakfast,21338,20
+PKG009,Goa Beach Bash - Luxury Package,D03,Luxury,5,5-Star,Yes,Full Board,55687,28
+PKG010,Dubai Desert Rush - Budget Package,D04,Budget,3,3-Star,Yes,None,7409,15
+PKG011,Dubai Desert Rush - Standard Package,D04,Standard,6,4-Star,Yes,Half Board,44318,25
+PKG012,Dubai Desert Rush - Luxury Package,D04,Luxury,5,5-Star,Yes,Full Board,184020,28
+PKG013,Dehradun Green Trails - Budget Package,D05,Budget,4,3-Star,Yes,Breakfast,7219,18
+PKG014,Dehradun Green Trails - Standard Package,D05,Standard,7,4-Star,No,Half Board,18996,22
+PKG015,Dehradun Green Trails - Luxury Package,D05,Luxury,7,5-Star,Yes,Full Board,113927,30
+PKG016,Himachal Hill Hues - Budget Package,D06,Budget,4,3-Star,No,Breakfast,5219,12
+PKG017,Himachal Hill Hues - Standard Package,D06,Standard,5,4-Star,No,Half Board,21102,25
+PKG018,Himachal Hill Hues - Luxury Package,D06,Luxury,5,5-Star,Yes,Full Board,85175,32
+PKG019,Thailand Party Hop - Budget Package,D07,Budget,4,3-Star,Yes,None,9324,12
+PKG020,Thailand Party Hop - Standard Package,D07,Standard,6,4-Star,Yes,Breakfast,57062,22
+PKG021,Thailand Party Hop - Luxury Package,D07,Luxury,6,5-Star,Yes,Full Board,222268,30
+PKG022,Singapore City Spin - Budget Package,D08,Budget,4,3-Star,Yes,Breakfast,10672,15
+PKG023,Singapore City Spin - Standard Package,D08,Standard,5,4-Star,Yes,Breakfast,50372,22
+PKG024,Singapore City Spin - Luxury Package,D08,Luxury,5,5-Star,Yes,Full Board,126082,32
+PKG025,Shimla Chill Trip - Budget Package,D09,Budget,3,3-Star,Yes,Breakfast,4298,12
+PKG026,Shimla Chill Trip - Standard Package,D09,Standard,4,4-Star,Yes,Half Board,17309,20
+PKG027,Shimla Chill Trip - Luxury Package,D09,Luxury,5,5-Star,Yes,Full Board,51625,25
+PKG028,Kashmir Heaven Walk - Budget Package,D10,Budget,5,3-Star,No,None,6488,12
+PKG029,Kashmir Heaven Walk - Standard Package,D10,Standard,6,4-Star,Yes,Half Board,31080,18
+PKG030,Kashmir Heaven Walk - Luxury Package,D10,Luxury,6,5-Star,Yes,Full Board,65158,30
+PKG031,Kerala Backwater Joy - Budget Package,D11,Budget,4,3-Star,No,None,4200,12
+PKG032,Kerala Backwater Joy - Standard Package,D11,Standard,6,4-Star,Yes,Half Board,16368,22
+PKG033,Kerala Backwater Joy - Luxury Package,D11,Luxury,7,5-Star,Yes,Full Board,108929,28
+PKG034,Ladakh Bike Saga - Budget Package,D12,Budget,5,3-Star,No,Breakfast,5355,18
+PKG035,Ladakh Bike Saga - Standard Package,D12,Standard,5,4-Star,Yes,Half Board,11783,18
+PKG036,Ladakh Bike Saga - Luxury Package,D12,Luxury,7,5-Star,Yes,Full Board,79352,28
+PKG037,Andaman Wave Call - Budget Package,D13,Budget,3,3-Star,No,None,4909,12
+PKG038,Andaman Wave Call - Standard Package,D13,Standard,7,4-Star,No,Breakfast,34860,18
+PKG039,Andaman Wave Call - Luxury Package,D13,Luxury,6,5-Star,Yes,Full Board,76560,28
+PKG040,Rishikesh River Rush - Budget Package,D14,Budget,5,3-Star,Yes,None,6865,18
+PKG041,Rishikesh River Rush - Standard Package,D14,Standard,6,4-Star,No,Breakfast,14968,25
+PKG042,Rishikesh River Rush - Luxury Package,D14,Luxury,5,5-Star,Yes,Full Board,65963,25
+PKG043,Jaipur Royal Tour - Budget Package,D15,Budget,5,3-Star,No,None,6518,15
+PKG044,Jaipur Royal Tour - Standard Package,D15,Standard,6,4-Star,No,Breakfast,25630,20
+PKG045,Jaipur Royal Tour - Luxury Package,D15,Luxury,7,5-Star,Yes,Full Board,88790,25
+PKG046,Udaipur Lake Dream - Budget Package,D16,Budget,3,3-Star,Yes,None,5042,15
+PKG047,Udaipur Lake Dream - Standard Package,D16,Standard,4,4-Star,Yes,Half Board,18589,25
+PKG048,Udaipur Lake Dream - Luxury Package,D16,Luxury,5,5-Star,Yes,Full Board,43703,30
+PKG049,Coorg Coffee Break - Budget Package,D17,Budget,4,3-Star,No,None,5748,18
+PKG050,Coorg Coffee Break - Standard Package,D17,Standard,6,4-Star,No,Breakfast,23250,25
+PKG051,Coorg Coffee Break - Luxury Package,D17,Luxury,5,5-Star,Yes,Full Board,59430,32
+PKG052,Darjeeling Tea Trails - Budget Package,D18,Budget,5,3-Star,Yes,None,8010,12
+PKG053,Darjeeling Tea Trails - Standard Package,D18,Standard,7,4-Star,Yes,Half Board,24668,18
+PKG054,Darjeeling Tea Trails - Luxury Package,D18,Luxury,6,5-Star,Yes,Full Board,67230,25
+PKG055,Phuket Island Vibe - Budget Package,D19,Budget,4,3-Star,Yes,Breakfast,7571,18
+PKG056,Phuket Island Vibe - Standard Package,D19,Standard,5,4-Star,Yes,Breakfast,27155,20
+PKG057,Phuket Island Vibe - Luxury Package,D19,Luxury,6,5-Star,Yes,Full Board,169550,32
+PKG058,Maldives Blue Splash - Budget Package,D20,Budget,4,3-Star,Yes,Breakfast,12056,15
+PKG059,Maldives Blue Splash - Standard Package,D20,Standard,7,4-Star,Yes,Half Board,71575,18
+PKG060,Maldives Blue Splash - Luxury Package,D20,Luxury,8,5-Star,Yes,Full Board,116395,30

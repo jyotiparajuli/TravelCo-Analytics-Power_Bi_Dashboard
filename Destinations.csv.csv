@@ -1,0 +1,21 @@
+Destination_ID,Destination,Country,Region,Best_Season,Avg_Temperature,Safety_Rating,Visa_Required
+D01,Bali Bliss Escape,Indonesia,South-East Asia,April-October,29,4.5,Yes
+D02,Manali Snow Ride,India,North India,December-February,5,4.2,No
+D03,Goa Beach Bash,India,West India,November-February,32,4.6,No
+D04,Dubai Desert Rush,UAE,Middle East,November-March,28,4.7,Yes
+D05,Dehradun Green Trails,India,North India,March-June,22,4.3,No
+D06,Himachal Hill Hues,India,North India,April-June,18,4.1,No
+D07,Thailand Party Hop,Thailand,South-East Asia,November-April,33,4.4,Yes
+D08,Singapore City Spin,Singapore,South-East Asia,February-April,30,4.8,Yes
+D09,Shimla Chill Trip,India,North India,December-February,8,4.2,No
+D10,Kashmir Heaven Walk,India,North India,March-October,14,4,No
+D11,Kerala Backwater Joy,India,South India,September-March,28,4.5,No
+D12,Ladakh Bike Saga,India,North India,June-September,10,4.3,No
+D13,Andaman Wave Call,India,Islands,October-May,29,4.6,No
+D14,Rishikesh River Rush,India,North India,September-June,25,4.4,No
+D15,Jaipur Royal Tour,India,West India,October-March,27,4.5,No
+D16,Udaipur Lake Dream,India,West India,September-March,28,4.6,No
+D17,Coorg Coffee Break,India,South India,October-March,24,4.4,No
+D18,Darjeeling Tea Trails,India,East India,March-May,15,4.3,No
+D19,Phuket Island Vibe,Thailand,South-East Asia,November-April,31,4.5,Yes
+D20,Maldives Blue Splash,Maldives,South Asia,November-April,30,4.9,Yes
