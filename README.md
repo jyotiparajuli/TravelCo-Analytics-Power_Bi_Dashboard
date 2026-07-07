@@ -4,6 +4,12 @@
 
 Interactive Power BI dashboard developed for travel business analysis. The dashboard helps stakeholders monitor bookings, revenue, customer ratings, destinations, and business performance through dynamic visualizations and insights.
 
+## Project Resources:-
+
+Demo Video & Screen Shots
+
+https://drive.google.com/drive/folders/1f_YqI_F33GfVYRMg7QLk62Lghl3YIhlN?usp=sharing
+
 ## Features
 
 * Interactive KPI cards
@@ -38,12 +44,8 @@ Interactive Power BI dashboard developed for travel business analysis. The dashb
 * DAX
 * Data Modeling
 
-## Project Resources:-
-
-Demo Video & Screen Shots
-
-https://drive.google.com/drive/folders/1f_YqI_F33GfVYRMg7QLk62Lghl3YIhlN?usp=sharing
-
 ## Business Value
 
 The dashboard enables data-driven decision-making by identifying revenue trends, customer preferences, top-performing destinations, and actionable business recommendations.
+
+Thank you for visiting this repository. Explore the interactive dashboard, demo video, and project files to experience the complete TravelCo analytics solution.
